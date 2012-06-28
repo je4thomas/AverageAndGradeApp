@@ -1,0 +1,5 @@
+C:\Users\EnE\Documents\Visual Studio 2010\Projects\AverageAndGradeApp\AverageAndGradeApp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\EnE\Documents\Visual Studio 2010\Projects\AverageAndGradeApp\AverageAndGradeApp\bin\Release\AverageAndGradeApp.exe
+C:\Users\EnE\Documents\Visual Studio 2010\Projects\AverageAndGradeApp\AverageAndGradeApp\bin\Release\AverageAndGradeApp.pdb
+C:\Users\EnE\Documents\Visual Studio 2010\Projects\AverageAndGradeApp\AverageAndGradeApp\obj\x86\Release\AverageAndGradeApp.exe
+C:\Users\EnE\Documents\Visual Studio 2010\Projects\AverageAndGradeApp\AverageAndGradeApp\obj\x86\Release\AverageAndGradeApp.pdb
